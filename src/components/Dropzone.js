@@ -2,12 +2,12 @@ import React, { useMemo } from "react";
 import { useDropzone } from "react-dropzone";
 
 const baseStyle = {
-  height: "200px",
+  height: "400px",
   flex: 1,
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
-  padding: "20px",
+  padding: "30px",
   borderWidth: 2,
   borderRadius: 2,
   borderColor: "#eeeeee",
